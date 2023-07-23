@@ -10,6 +10,6 @@ Identifying factors influencing successful holiday bookings and improving conver
 Evaluating the impact of different services (e.g., in-flight meals, extra baggage allowance) on customers' booking decisions.
 Assessing the relationship between booking lead time and customer choices.
 
-- Exploratory Data Analysis file : 
+- Exploratory Data Analysis file : https://github.com/Muhannad0101/Analysis-of-airline-booking-dataset/blob/main/EDA-Machine%20learning.ipynb
 
 `This project is not finished yet and is in progress`
