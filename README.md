@@ -1,4 +1,4 @@
-# Analysis-of-airline-booking-dataset
+# Analysis-of-Airline-Booking-Dataset
 
 
 ## About Dataset
