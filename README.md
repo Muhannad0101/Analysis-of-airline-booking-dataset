@@ -14,4 +14,3 @@ Potential analyses and applications include:
 
 - Dashboards : https://github.com/Muhannad0101/Analysis-of-airline-booking-dataset/blob/main/dashboards.pdf
 
-`This project is not finished yet and is in progress`
